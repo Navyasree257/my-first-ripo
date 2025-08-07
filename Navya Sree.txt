@@ -1,0 +1,3 @@
+NAME: Navya Sree Yeddu
+COURSE: BSC-Computer Science
+LEARNED ABOUT GITHUB:GitHub is a platform where people can store,share,and work together on code
